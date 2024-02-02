@@ -1,0 +1,5 @@
+6,Thanh,VietNam,Da Nang,Son Tra,Doan Khue,3.0,6.0,4
+7,Thinh,Viet Nam,Quang Nam,Dai Loc,Hai Phong,6.0,9.0,7
+8,Thang,Viet Nam,Da Nang,Son Tra,Bach Dang,8.0,4.0,6.67
+9,Thien,Viet Nam,Da Nang,Hoa Vang,Hung Vuong,6.0,9.0,7
+10,Vinh,Viet Nam,Hue,Phu Loc,Hoa An,9.0,6.0,8

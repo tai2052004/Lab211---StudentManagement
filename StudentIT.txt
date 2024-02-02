@@ -1,0 +1,5 @@
+1,Tai,Viet Nam,Da Nang,Hai Chau,Tran Phu,8.0,9.0,8.25
+2,Hung,Viet Nam,Da Nang,Lien Chieu,Nguyen Du,4.0,7.0,4.75
+3,Hoang,Viet Nam,Quang Nam,Tam Ky,Hung Vuong,7.0,3.0,6
+4,Linh,Viet Nam,Da Nang,Ngu Hanh Son,Doan Khue,6.0,8.0,6.5
+5,Tung,Viet Nam,Hue,Phu Loc,Hoang Dieu,4.0,8.0,5
